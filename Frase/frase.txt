@@ -2,4 +2,8 @@ Querer ser otra persona es malgastar la persona que eres." Marilyn Monroe
 
 "Nunca pierdo. O gano o aprendo." Nelson Mandela
 
+<<<<<<< HEAD
 hola estoy de examen | ultimas palabras de Raimond Ionut Fataciune
+=======
+El pasado es historia, el futuro un misterio, pero el hoy es un regalo, por eso se llama presente | maestro ubwey (Raimond Ionut Fataciune)
+>>>>>>> origin/main
